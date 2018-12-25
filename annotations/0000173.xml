@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>0000173.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1415</width>
+    <height>87</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>bay_shosha</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1271</xmin>
+      <ymin>20</ymin>
+      <xmax>1283</xmax>
+      <ymax>44</ymax>
+    </bndbox>
+  </object>
+</annotation>
